@@ -6,6 +6,14 @@
 
 ![Hoge](image_003_0000.png)
 
+### どんなゲーム？
+
+
+
+### 購入
+
+- Steam
+
 ## PHRASEFIGHT (2018)
 
 ![Hoge](image_003_0000.png)
