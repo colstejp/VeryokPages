@@ -12,7 +12,7 @@
 
 ### 購入
 
-- [Steam](https://store.steampowered.com/app/1452350/_/)
+- <a href="https://store.steampowered.com/app/1452350/_/" target="_blank">Steam</a>	
 
 ## PHRASEFIGHT
 
@@ -38,7 +38,7 @@ Joy-Conを「おすそわけ」しての対戦にも対応だ！
 
 ### 購入
 
-- [My Nintendo Store](https://store-jp.nintendo.com/list/software/70010000011791.html)
+- <a href="https://store-jp.nintendo.com/list/software/70010000011791.html" target="_blank">My Nintendo Store</a>	
 
 # SNS
 
