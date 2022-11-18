@@ -42,5 +42,5 @@ Joy-Conを「おすそわけ」しての対戦にも対応だ！
 
 # SNS
 
-- [Twitter](http://twitter.com/veryOKjp)
+- [Twitter(@veryOKjp)](http://twitter.com/veryOKjp)
 - [YouTube](https://www.youtube.com/channel/UCU_c9kXTMNXl1-qhHGkoF0A)
