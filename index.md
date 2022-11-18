@@ -1,2 +1,1 @@
-# page0
-Hello,World
+layout: home
