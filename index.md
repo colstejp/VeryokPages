@@ -16,7 +16,7 @@
 
 ## PHRASEFIGHT
 
-![](image_003_0000.png)
+![](pf.png)
 
 ### どんなゲーム？
 
