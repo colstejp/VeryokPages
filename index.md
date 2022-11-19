@@ -20,7 +20,7 @@
 果たしてそんな事が可能なのだろうか。  
 貴方と教授は大学に残る事が出来るのだろうか。  
 
-### 購入
+### ストアページ
 
 - <a href="https://store.steampowered.com/app/1452350/_/" target="_blank">Steam</a>	
 
@@ -46,7 +46,7 @@ Joy-Conを「おすそわけ」しての対戦にも対応だ！
 いつでも、どこでも、誰とでも、  
 リズムに乗って、殴り合え！  
 
-### 購入
+### ストアページ
 
 - <a href="https://store-jp.nintendo.com/list/software/70010000011791.html" target="_blank">My Nintendo Store</a>	
 
