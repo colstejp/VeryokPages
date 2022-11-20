@@ -22,7 +22,7 @@
 
 ### ストアページ
 
-- <a href="https://store.steampowered.com/app/1452350/_/" target="_blank">Steam</a>	
+- <a href="https://store.steampowered.com/app/1452350/_/" target="_blank">Steam版</a>	
 
 ## PHRASEFIGHT
 
@@ -48,7 +48,7 @@ Joy-Conを「おすそわけ」しての対戦にも対応だ！
 
 ### ストアページ
 
-- <a href="https://store-jp.nintendo.com/list/software/70010000011791.html" target="_blank">My Nintendo Store</a>	
+- <a href="https://store-jp.nintendo.com/list/software/70010000011791.html" target="_blank">Nintendo Switch版</a>	
 
 # SNS
 
