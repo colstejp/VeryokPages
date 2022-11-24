@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
 ---
 
-# SubPage
+# 0
 ## 1
 ### 1a
 ## 2
