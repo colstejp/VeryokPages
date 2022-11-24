@@ -1,11 +1,11 @@
 ---
-layout: page
+layout : page
+permalink : /
+title : トップ
 ---
-
-# 0
+## 0
+### 0a
 ## 1
 ### 1a
 ## 2
 ### 2a
-## 3
-### 3a
