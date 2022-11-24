@@ -1,7 +1,4 @@
 # SubPage
-
-Hoge
-
 ## 1
 ### 1a
 ## 2
