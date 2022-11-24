@@ -1,7 +1,8 @@
 ---
-layout: home
+layout: page
 ---
-# SubPage
+
+# 0
 ## 1
 ### 1a
 ## 2
