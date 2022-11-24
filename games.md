@@ -1,7 +1,7 @@
 ---
 layout : page
-permalink : //
-title : ゲーム
+permalink : /games/
+title : ゲーム紹介
 ---
 ## 0
 ### 0a
