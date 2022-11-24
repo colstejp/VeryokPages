@@ -1,3 +1,6 @@
+---
+layout: home
+---
 # SubPage
 ## 1
 ### 1a
