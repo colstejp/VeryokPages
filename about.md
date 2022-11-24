@@ -1,6 +1,6 @@
 ---
 layout : page
-permalink : /games/
+permalink : /about/
 title : アバウト
 ---
 ## 0
