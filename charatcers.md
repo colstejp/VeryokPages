@@ -1,7 +1,7 @@
 ---
 layout : page
 permalink : /characters/
-title : キャラクター紹介
+title : キャラクター
 ---
 ## 0
 ### 0a
