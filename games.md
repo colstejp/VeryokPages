@@ -1,7 +1,7 @@
 ---
 layout : page
 permalink : /games/
-title : ゲーム紹介
+title : ゲーム
 ---
 ## 0
 ### 0a
