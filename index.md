@@ -1,7 +1,5 @@
 ---
 layout : page
-permalink : /
-title : トップ
 ---
 ## 0
 ### 0a
